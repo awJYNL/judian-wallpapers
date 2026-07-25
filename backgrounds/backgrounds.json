@@ -2,19 +2,52 @@
   "images": [
     {
       "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-1.webp",
-      "position": "center"
+      "position": "center",
+      "fit": "contain",
+      "color": "#f5a8cd"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-2.jpg",
-      "position": "center"
+      "position": "center",
+      "fit": "contain",
+      "color": "#f5a8cd"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-3.webp",
-      "position": "center"
+      "position": "center",
+      "fit": "contain",
+      "color": "#f5a8cd"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-4.webp",
-      "position": "center"
+      "position": "center",
+      "fit": "contain",
+      "color": "#f5a8cd"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/bocchi-1.jpg",
+      "position": "center",
+      "fit": "cover"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/bocchi-2.jpg",
+      "position": "center",
+      "fit": "cover"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/bocchi-3.jpg",
+      "position": "center",
+      "fit": "cover"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/bocchi-4.jpg",
+      "position": "center",
+      "fit": "cover"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/bocchi-5.jpg",
+      "position": "center",
+      "fit": "cover"
     }
   ]
 }
