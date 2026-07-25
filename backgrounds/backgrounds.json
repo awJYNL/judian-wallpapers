@@ -1,0 +1,20 @@
+{
+  "images": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-1.webp",
+      "position": "center"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-2.jpg",
+      "position": "center"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-3.webp",
+      "position": "center"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/awJYNL/judian-wallpapers@main/backgrounds/background-4.webp",
+      "position": "center"
+    }
+  ]
+}
